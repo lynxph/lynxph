@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AnnTok Staycation Online Booking**
 
-- 🌱 I’m currently learning **Full-stack development with a side of cyber-security and digital forensics**
+- 🌱 I’m currently learning **Full-stack development with a side of cyber-security and digital forensics, and a little UI/UX Design**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
