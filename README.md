@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Emmanuelle Manuel</h1>
 <h3 align="center">A learning developer, and a student of Digital Forensics</h3>
 
-- 🔭 I’m currently working on **AnnTok Staycation Online Booking**
+- 🔭 I’m currently working on **NOTHING**
 
-- 🌱 I’m currently learning **Full-stack development with a side of cyber-security and digital forensics, and a little UI/UX Design**
+- 🌱 I’m currently learning **Cybersecurity and a dash of UI/UX Design**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
