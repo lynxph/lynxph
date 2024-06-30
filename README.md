@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Emmanuelle Manuel</h1>
 <h3 align="center">A learning developer, and a student of Digital Forensics</h3>
 
-- 🔭 I’m currently working on **NOTHING**
+- 🔭 I’m currently working on **MYSELF**
 
 - 🌱 I’m currently learning **Cybersecurity and a dash of UI/UX Design**
 
